@@ -5,7 +5,7 @@ const projects = [
     path: 'facebook/react',
     slug: 'facebook-react',
   },
-  { id: 'vue', name: 'Vue', path: 'vuejs/vue', slug: 'vuejs-vue' },
+  { id: 'vue', name: 'Vue pa chinos', path: 'vuejs/vue', slug: 'vuejs-vue' },
   {
     id: 'svelte',
     name: 'Svelte',
