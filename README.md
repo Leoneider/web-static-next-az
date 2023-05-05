@@ -1,4 +1,5 @@
-[![E2E tests](https://github.com/staticwebdev/nextjs-starter/actions/workflows/playwright.js.yml/badge.svg)](https://github.com/staticwebdev/nextjs-starter/actions/workflows/playwright.js.yml)
+
+![example workflow](https://github.com/Leoneider/web-static-next-az/actions/workflows/azure-static-web-apps-lemon-forest-0ec68e510.yml/badge.svg)
 
 # Next.js starter
 
